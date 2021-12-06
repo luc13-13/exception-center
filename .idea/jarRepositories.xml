@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="153fe26e-b6b5-499a-995d-1e377e16ed04" />
+      <option name="name" value="153fe26e-b6b5-499a-995d-1e377e16ed04" />
+      <option name="url" value="http://nexus.3ren.cn:8081/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-releases" />
+      <option name="name" value="nexus-releases" />
+      <option name="url" value="http://nexus.3ren.cn:8081/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshots" />
+      <option name="name" value="nexus-snapshots" />
+      <option name="url" value="http://nexus.3ren.cn:8081/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="archetype" />
+      <option name="name" value="archetype" />
+      <option name="url" value="http://10.8.8.134:8081/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="archetype" />
+      <option name="name" value="archetype" />
+      <option name="url" value="http://nexus.3ren.cn:8081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://nexus.3ren.cn:8081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshots" />
+      <option name="name" value="nexus-snapshots" />
+      <option name="url" value="http://nexus.3ren.cn:8081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.e-iceblue" />
+      <option name="name" value="com.e-iceblue" />
+      <option name="url" value="http://nexus.3ren.cn:8081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-releases" />
+      <option name="name" value="nexus-releases" />
+      <option name="url" value="http://nexus.3ren.cn:8081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="com.e-iceblue" />
+      <option name="name" value="com.e-iceblue" />
+      <option name="url" value="http://repo.e-iceblue.cn/repository/maven-public/" />
+    </remote-repository>
+  </component>
+</project>
