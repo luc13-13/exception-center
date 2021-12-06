@@ -32,6 +32,10 @@ public enum ArgsExceptionEnum {
         return null;
     }
 
+    public String getMessage() {
+        return this.message;
+    }
+
     public static ArgsExceptionEnum valueOf(Integer code) {
         for(ArgsExceptionEnum argsExceptionEnum : values()) {
             if(argsExceptionEnum.code.equals(code)) {
