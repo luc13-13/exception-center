@@ -23,7 +23,7 @@
 		<repository>
 			<id>releases</id>
 			<name>nexus3 maven-releases</name>
-			<url>http://localhost:8081/repository/maven-snapshots/</url>
+			<url>http://localhost:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
